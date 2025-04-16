@@ -1,0 +1,6 @@
+[core]
+    remote = luneremote
+['remote "myremote"']
+    url = gs://my_dvc_bucket97/
+['remote "luneremote"']
+    url = gs://my_dvc_bucket97/
